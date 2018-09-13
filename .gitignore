@@ -1,0 +1,24 @@
+pom.xml
+*jar
+/lib/
+/classes/
+/out/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+
+*.swp
+
+/.repl
+/.nrepl-port
+
+/public/out/
+/public/game.js
+
+.DS_Store
+
+# ignore diffs
+*.diff
+
+
